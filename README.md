@@ -17,7 +17,7 @@ Model was trained and tested entirely on the Linemod dataset [[2]](#references).
 ## Installation and Training steps
 
 ```
-$ git clone https://github.com/yshah43/DPOD.git
+$ git clone https://github.com/miguelalejo/DPOD.git
 $ cd DPOD
 $ chmod +x dataset_install.sh
 $ ./dataset_install.sh
